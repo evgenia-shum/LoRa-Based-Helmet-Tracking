@@ -7,7 +7,7 @@
 
 Интеграция карты местности в приложение осуществляется по средство пакета *mapwidget*, 
 
- ![Окно пользовательского приложения](<img width="1953" height="1542" alt="image" src="https://github.com/user-attachments/assets/749035f4-354c-4629-865b-d9b8407bd6ff" />
+<img width="1953" height="1542" alt="image" src="https://github.com/user-attachments/assets/749035f4-354c-4629-865b-d9b8407bd6ff" /"Вид спутниковой карты|||aspect=1">
 
  ![Вид спутниковой карты](/api/attachments.redirect?id=f37ec324-a3b5-4fb7-97f5-f5b6b069aea9 "Вид спутниковой карты|||aspect=1")
 
