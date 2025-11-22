@@ -1,4 +1,4 @@
-<img width="2368" height="1473" alt="image" src="https://github.com/user-attachments/assets/b8a1caa2-31fb-4c9d-9344-8389b95b846d" /><img width="8001" height="4501" alt="планшет_web" src="https://github.com/user-attachments/assets/e910362d-b751-4a66-9fc8-ea3855d8b76c" />
+height="4501" alt="планшет_web" src="https://github.com/user-attachments/assets/e910362d-b751-4a66-9fc8-ea3855d8b76c" />
 
 # Пользовательское приложение
 
