@@ -7,9 +7,9 @@
 
 Интеграция карты местности в приложение осуществляется по средство пакета *mapwidget*, 
 
-<img width="1953" height="1542" alt="image" src="https://github.com/user-attachments/assets/749035f4-354c-4629-865b-d9b8407bd6ff" /> "Вид спутниковой карты|||aspect=1"
+<img width="1953" height="1542" alt="image" src="https://github.com/user-attachments/assets/749035f4-354c-4629-865b-d9b8407bd6ff" /> Окно пользовательского приложения
 
- ![Вид спутниковой карты](/api/attachments.redirect?id=f37ec324-a3b5-4fb7-97f5-f5b6b069aea9 "Вид спутниковой карты|||aspect=1")
+<img width="954" height="634" alt="image" src="https://github.com/user-attachments/assets/7af719b0-5c77-466e-91cc-c5f6a10b632e" /> Вид спутниковой карты
 
 ## Реализация геозонирования
 
@@ -22,7 +22,7 @@
 Для демонстрации функции геозонирования в программном коде был задан массив координат точек, образующие четырехугольник на карте – «зону», обозначенную красным цветом.
 
 
- ![Геозонирование](/api/attachments.redirect?id=8f5bede1-5d2b-44a9-bde5-758fdb30cd96 "Геозонирование|||aspect=1")
+<img width="2861" height="1607" alt="image" src="https://github.com/user-attachments/assets/326e807f-b3f8-404d-bcea-2d5be9136df2" /> Геозонирование
 
 Программа проверяет входную координату: если она находится внутри полигона, ставит маркер с номером пользователя, если нет – пишет «Нельзя!»
 
@@ -32,6 +32,7 @@
 
 То же самое случится, если встроенный в модуль гироскоп зафиксирует падение.
 
- ![](/api/attachments.redirect?id=cf3076df-86d8-4636-bdfc-30c361330d0e "aspect=1")
+<img width="2368" height="1473" alt="image" src="https://github.com/user-attachments/assets/242a5484-0c57-45d8-a7c1-44aa4f9d1886" />
+
 
 
