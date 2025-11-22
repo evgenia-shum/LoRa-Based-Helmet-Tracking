@@ -1,4 +1,5 @@
 <img width="8001" height="4501" alt="планшет_web" src="https://github.com/user-attachments/assets/e910362d-b751-4a66-9fc8-ea3855d8b76c" />
+
 # Пользовательское приложение
 
 ## Интерфейс приложения
@@ -7,9 +8,11 @@
 
 Интеграция карты местности в приложение осуществляется по средство пакета *mapwidget*, 
 
-<img width="1953" height="1542" alt="image" src="https://github.com/user-attachments/assets/749035f4-354c-4629-865b-d9b8407bd6ff" /> Окно пользовательского приложения
+<img width="1953" height="1542" alt="image" src="https://github.com/user-attachments/assets/749035f4-354c-4629-865b-d9b8407bd6ff" /> 
+Окно пользовательского приложения
 
-<img width="954" height="634" alt="image" src="https://github.com/user-attachments/assets/7af719b0-5c77-466e-91cc-c5f6a10b632e" /> Вид спутниковой карты
+<img width="954" height="634" alt="image" src="https://github.com/user-attachments/assets/7af719b0-5c77-466e-91cc-c5f6a10b632e" /> 
+Вид спутниковой карты
 
 ## Реализация геозонирования
 
@@ -22,7 +25,8 @@
 Для демонстрации функции геозонирования в программном коде был задан массив координат точек, образующие четырехугольник на карте – «зону», обозначенную красным цветом.
 
 
-<img width="2861" height="1607" alt="image" src="https://github.com/user-attachments/assets/326e807f-b3f8-404d-bcea-2d5be9136df2" /> Геозонирование
+<img width="2861" height="1607" alt="image" src="https://github.com/user-attachments/assets/326e807f-b3f8-404d-bcea-2d5be9136df2" /> 
+Геозонирование
 
 Программа проверяет входную координату: если она находится внутри полигона, ставит маркер с номером пользователя, если нет – пишет «Нельзя!»
 
