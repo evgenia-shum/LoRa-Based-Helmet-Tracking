@@ -11,7 +11,7 @@
 <img width="1953" height="1542" alt="image" src="https://github.com/user-attachments/assets/749035f4-354c-4629-865b-d9b8407bd6ff" /> 
 Окно пользовательского приложения
 
-<img width="954" height="634" alt="image" src="https://github.com/user-attachments/assets/7af719b0-5c77-466e-91cc-c5f6a10b632e" /> 
+<img width="954" height="634" alt="image" src="https://github.com/user-attachments/assets/7af719b0-5c77-466e-91cc-c5f6a10b632e" />
 Вид спутниковой карты
 
 ## Реализация геозонирования
